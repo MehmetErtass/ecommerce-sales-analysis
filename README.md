@@ -1,4 +1,4 @@
-# Ecommerce Sales Analysis and Forecasting
+# E-ticaret Satış Analizi ve Tahmini
 
 ## Proje Açıklaması
 Bu proje, bir e-ticaret veri setini analiz etmek ve gelecekteki satışları tahmin etmek amacıyla hazırlanmıştır. Proje, verilerin temizlenmesi, keşifsel veri analizi (EDA), RFM segmentasyonu ve satış tahmini süreçlerini içermektedir. Son olarak, satış tahminleri Power BI görselleştirmeleri ile raporlanmıştır.
